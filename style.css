@@ -1,7 +1,68 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  font-family: "Open Sans", sans-serif;
+}
+
 #page {
-  margin: 123px 80px;
+  margin: 123px auto;
+  box-sizing: border-box;
+  width: 1120px;
+}
+h1 {
+ font-size: 36px;
+ margin-bottom: 40px;
 }
 
 img {
   border-radius: 28px;
+  width: 100%;
 }
+
+#headline{
+  color: #E1624F;
+  font-weight: bold;
+}
+
+
+#primeirohr {
+  margin-bottom: 64px;
+}
+
+ h2{
+  font-size: 32px;
+  margin: 20px 0px 4px 5px;
+ }
+
+ p {
+  font-size: 16px;
+ }
+
+
+#description {
+   text-align: center;
+  margin: 24px ;
+}
+#lista{
+  margin-bottom: 48px;
+}
+ #paragraph {
+  margin: 8px 0px 64px;
+ }
+
+#segundohr {
+  margin:40px 0px 40px ;
+ }
+
+ footer {
+ text-align: center;
+ padding-bottom: 48px;
+ }
+
+ footer img {
+  width: 15px;
+ }
+ 
